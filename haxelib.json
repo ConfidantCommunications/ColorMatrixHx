@@ -1,0 +1,11 @@
+{
+	"name": "ColorMatrixHx",
+  	"license": "MIT",
+	"tags": ["openfl","flash","color","filter"],
+	"contributors": ["ConfidantCommunications"],
+	"classPath":"src/",
+	"releasenote": "Initial release on Haxelib. ",
+	"version": "1.0.0",
+	"url": "https://github.com/ConfidantCommunications/ColorMatrixHx",
+	"dependencies": {}
+}
